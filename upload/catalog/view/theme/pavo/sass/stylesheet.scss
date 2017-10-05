@@ -3,3 +3,7 @@
 
 // import default bootstrap
 @import "bootstrap";
+
+@import "mixins/rtl";
+@import "mixins/function";
+@import "layout";
