@@ -1,0 +1,19 @@
+[
+	{
+		"table" 	: "product",
+		"module" 	: "pavoblog"
+	},
+	{
+		"table" 	: "product_description",
+		"module" 	: "pavoblog"
+	},
+	{
+		"table" 	: "product_attribute",
+		"module" 	: "pavoblog"
+	},
+	{
+		"table" 	: "product_discount",
+		"module" 	: "pavoblog"
+	}
+
+]
